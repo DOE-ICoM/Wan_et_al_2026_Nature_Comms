@@ -1,4 +1,4 @@
-# Wan et al. (2026) — Coastal Flood Impact Analysis
+# Wan et al. (2026) — Coastal Flood Impact Sensitivity in the Eastern United States 
 
 Code and sample data accompanying **Wan et al., 2026 (*Nature Communications*)**.
 This repository provides the end-to-end workflow for estimating **building-level flood
@@ -272,7 +272,7 @@ tables in `Data/Output_data/`.
 If you use this code or data, please cite both the paper and the archived
 dataset / code release:
 
-> Wan, H. et al. *Title*. **Nature Communications** (2026).
+> Wan, H. et al. *Coastal Flood Impact Sensitivity in the Eastern United States *. **Nature Communications** (2026).
 >
 > Wan, H. et al. *Input data for Wan et al. (2026), Nature Communications.*
 > Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
