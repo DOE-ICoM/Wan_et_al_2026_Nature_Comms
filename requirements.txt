@@ -1,0 +1,17 @@
+# Flood impact analysis — Python dependencies
+# Requires Python 3.12 (tested on 3.12.14)
+# Install:  pip install -r requirements.txt
+
+
+# --- Core analysis (Building_level_impact.py, Total_property_value_by_CT.py) ---
+rasterio==1.5.0
+numpy==2.5.3
+scipy==1.18
+
+# --- Figure generation (notebook) ---
+adjusttext==1.4.0
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+pandas==3.0.6
+scipy==1.18.1
+seaborn==0.13.2

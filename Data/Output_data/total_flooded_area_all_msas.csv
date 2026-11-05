@@ -1,0 +1,611 @@
+MSA,SurgeHeight,FloodedArea_ksq
+"Palm Bay-Melbourne-Titusville, FL Metro Area",5,1416.336606
+"Dover, DE Metro Area",5,539.6770658
+"Lexington Park, MD Metro Area",5,1395.854351
+"Houston-Pasadena-The Woodlands, TX Metro Area",5,2489.87635881454
+"Brunswick-St. Simons, GA Metro Area",5,876.1211352
+"Cape Coral-Fort Myers, FL Metro Area",5,1964.323623
+"Lafayette, LA Metro Area",5,1388.49104889168
+"Barnstable Town, MA Metro Area",5,2338.75427
+"Port St. Lucie, FL Metro Area",5,588.9809417
+"Gainesville, FL Metro Area",5,1209.13447
+"Beaumont-Port Arthur, TX Metro Area",5,505.323688148552
+"Bangor, ME Metro Area",5,6.235460566
+"Providence-Warwick, RI-MA Metro Area",5,1529.409041
+"Brownsville-Harlingen, TX Metro Area",5,909.0077305
+"Daphne-Fairhope-Foley, AL Metro Area",5,1136.27417
+"Tallahassee, FL Metro Area",5,987.1556071
+"Savannah, GA Metro Area",5,626.7206967
+"Boston-Cambridge-Newton, MA-NH Metro Area",5,2353.59566
+"Homosassa Springs, FL Metro Area",5,887.3076691
+"Jacksonville, FL Metro Area",5,1306.802651
+"Baton Rouge, LA Metro Area",5,260.704321617273
+"Punta Gorda, FL Metro Area",5,727.408454
+"New Haven, CT Metro Area",5,641.1797044
+"Bridgeport-Stamford-Danbury, CT Metro Area",5,501.2716579
+"Atlantic City-Hammonton, NJ Metro Area",5,1322.221372
+"Victoria, TX Metro Area",5,4.544312093
+"Vineland, NJ Metro Area",5,534.7834618
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",5,608.8355107
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",5,801.1857053
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",5,1703.944947
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",5,292.4770866
+"Naples-Marco Island, FL Metro Area",5,1659.851995
+"North Port-Bradenton-Sarasota, FL Metro Area",5,1618.417898
+"Mobile, AL Metro Area",5,1092.40646
+"Hammond, LA Metro Area",5,156.633557825571
+"Hartford-West Hartford-East Hartford, CT Metro Area",5,225.2701205
+"Hinesville, GA Metro Area",5,248.3128377
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",5,5200.22387719265
+"Charleston-North Charleston, SC Metro Area",5,1481.28996
+"Jacksonville, NC Metro Area",5,431.7592052
+"Pensacola-Ferry Pass-Brent, FL Metro Area",5,1704.166831
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",5,1271.039553
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",5,2039.991527
+"New Orleans-Metairie, LA Metro Area",5,13616.4524241541
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",5,3784.397828
+"Greenville, NC Metro Area",5,11.07910866
+"Norwich-New London-Willimantic, CT Metro Area",5,186.2375857
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",5,570.8752302
+"Lake Charles, LA Metro Area",5,2867.5955505803
+"Corpus Christi, TX Metro Area",5,1590.245865
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",5,3409.310561
+"Gulfport-Biloxi, MS Metro Area",5,1799.0447644649
+"Panama City-Panama City Beach, FL Metro Area",5,1815.282431
+"Salisbury, MD Metro Area",5,881.9666997
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",5,288.3268269
+"New York-Newark-Jersey City, NY-NJ Metro Area",5,6286.75085
+"Portland-South Portland, ME Metro Area",5,1725.147607
+"Richmond, VA Metro Area",5,277.7107499
+"Slidell-Mandeville-Covington, LA Metro Area",5,789.988462968503
+"Wilmington, NC Metro Area",5,1073.427519
+"Baltimore-Columbia-Towson, MD Metro Area",5,1258.183051
+"Palm Bay-Melbourne-Titusville, FL Metro Area",10,1518.452944
+"Dover, DE Metro Area",10,619.8446811
+"Lexington Park, MD Metro Area",10,1426.456481
+"Houston-Pasadena-The Woodlands, TX Metro Area",10,2543.69428635462
+"Brunswick-St. Simons, GA Metro Area",10,1241.341025
+"Cape Coral-Fort Myers, FL Metro Area",10,2054.062077
+"Lafayette, LA Metro Area",10,2840.65581766046
+"Barnstable Town, MA Metro Area",10,2361.610511
+"Port St. Lucie, FL Metro Area",10,605.0896944
+"Gainesville, FL Metro Area",10,1367.96327
+"Beaumont-Port Arthur, TX Metro Area",10,578.478436248315
+"Bangor, ME Metro Area",10,6.501945537
+"Providence-Warwick, RI-MA Metro Area",10,1566.503525
+"Brownsville-Harlingen, TX Metro Area",10,964.7751858
+"Daphne-Fairhope-Foley, AL Metro Area",10,1325.463553
+"Tallahassee, FL Metro Area",10,1074.393067
+"Savannah, GA Metro Area",10,859.8826569
+"Boston-Cambridge-Newton, MA-NH Metro Area",10,2377.684814
+"Homosassa Springs, FL Metro Area",10,1002.896205
+"Jacksonville, FL Metro Area",10,1570.99884
+"Baton Rouge, LA Metro Area",10,745.100610015906
+"Punta Gorda, FL Metro Area",10,786.0317905
+"New Haven, CT Metro Area",10,652.5053956
+"Bridgeport-Stamford-Danbury, CT Metro Area",10,504.7033513
+"Atlantic City-Hammonton, NJ Metro Area",10,1592.775714
+"Victoria, TX Metro Area",10,8.236096083
+"Vineland, NJ Metro Area",10,672.2941027
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",10,644.9331141
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",10,850.2813649
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",10,1761.278141
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",10,300.7489111
+"Naples-Marco Island, FL Metro Area",10,1983.654973
+"North Port-Bradenton-Sarasota, FL Metro Area",10,1652.016106
+"Mobile, AL Metro Area",10,1181.728162
+"Hammond, LA Metro Area",10,317.240342158705
+"Hartford-West Hartford-East Hartford, CT Metro Area",10,248.8531612
+"Hinesville, GA Metro Area",10,363.2592994
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",10,7464.69444823293
+"Charleston-North Charleston, SC Metro Area",10,1838.975295
+"Jacksonville, NC Metro Area",10,463.1774955
+"Pensacola-Ferry Pass-Brent, FL Metro Area",10,1799.459587
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",10,1596.532081
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",10,2382.525665
+"New Orleans-Metairie, LA Metro Area",10,15359.5098088639
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",10,4285.114536
+"Greenville, NC Metro Area",10,21.91443232
+"Norwich-New London-Willimantic, CT Metro Area",10,190.4030319
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",10,741.1497747
+"Lake Charles, LA Metro Area",10,4641.3672375222
+"Corpus Christi, TX Metro Area",10,1732.737393
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",10,3520.88128
+"Gulfport-Biloxi, MS Metro Area",10,1983.02329936835
+"Panama City-Panama City Beach, FL Metro Area",10,1867.467286
+"Salisbury, MD Metro Area",10,1120.292825
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",10,295.3343266
+"New York-Newark-Jersey City, NY-NJ Metro Area",10,6463.041449
+"Portland-South Portland, ME Metro Area",10,1738.300247
+"Richmond, VA Metro Area",10,361.9183221
+"Slidell-Mandeville-Covington, LA Metro Area",10,887.511882091788
+"Wilmington, NC Metro Area",10,1253.605888
+"Baltimore-Columbia-Towson, MD Metro Area",10,1319.539497
+"Palm Bay-Melbourne-Titusville, FL Metro Area",15,1622.227898
+"Dover, DE Metro Area",15,724.9477443
+"Lexington Park, MD Metro Area",15,1446.638361
+"Houston-Pasadena-The Woodlands, TX Metro Area",15,2787.60022161948
+"Brunswick-St. Simons, GA Metro Area",15,1484.638606
+"Cape Coral-Fort Myers, FL Metro Area",15,2122.028214
+"Lafayette, LA Metro Area",15,3272.99590852366
+"Barnstable Town, MA Metro Area",15,2389.864792
+"Port St. Lucie, FL Metro Area",15,620.8011175
+"Gainesville, FL Metro Area",15,1451.565456
+"Beaumont-Port Arthur, TX Metro Area",15,689.159322034181
+"Bangor, ME Metro Area",15,6.682746078
+"Providence-Warwick, RI-MA Metro Area",15,1587.815848
+"Brownsville-Harlingen, TX Metro Area",15,1018.50252
+"Daphne-Fairhope-Foley, AL Metro Area",15,1387.771479
+"Tallahassee, FL Metro Area",15,1124.340615
+"Savannah, GA Metro Area",15,1057.872198
+"Boston-Cambridge-Newton, MA-NH Metro Area",15,2446.591641
+"Homosassa Springs, FL Metro Area",15,1044.357797
+"Jacksonville, FL Metro Area",15,1727.588654
+"Baton Rouge, LA Metro Area",15,1132.24730407395
+"Punta Gorda, FL Metro Area",15,835.0777339
+"New Haven, CT Metro Area",15,661.0184474
+"Bridgeport-Stamford-Danbury, CT Metro Area",15,508.5320545
+"Atlantic City-Hammonton, NJ Metro Area",15,1653.702379
+"Victoria, TX Metro Area",15,11.90286214
+"Vineland, NJ Metro Area",15,733.915515
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",15,661.8879206
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",15,890.7929952
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",15,1800.844125
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",15,310.9290527
+"Naples-Marco Island, FL Metro Area",15,2090.416574
+"North Port-Bradenton-Sarasota, FL Metro Area",15,1693.231276
+"Mobile, AL Metro Area",15,1236.849547
+"Hammond, LA Metro Area",15,389.515546884057
+"Hartford-West Hartford-East Hartford, CT Metro Area",15,261.8717593
+"Hinesville, GA Metro Area",15,395.3430828
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",15,7977.34218525253
+"Charleston-North Charleston, SC Metro Area",15,2024.530443
+"Jacksonville, NC Metro Area",15,480.5604044
+"Pensacola-Ferry Pass-Brent, FL Metro Area",15,1869.861415
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",15,1778.809799
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",15,2741.37933
+"New Orleans-Metairie, LA Metro Area",15,15998.5653907951
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",15,4522.719937
+"Greenville, NC Metro Area",15,28.21071924
+"Norwich-New London-Willimantic, CT Metro Area",15,194.4695254
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",15,876.2946622
+"Lake Charles, LA Metro Area",15,5354.20542341239
+"Corpus Christi, TX Metro Area",15,1831.13493
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",15,3614.986762
+"Gulfport-Biloxi, MS Metro Area",15,2123.62121534933
+"Panama City-Panama City Beach, FL Metro Area",15,1918.378625
+"Salisbury, MD Metro Area",15,1199.062793
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",15,305.8435379
+"New York-Newark-Jersey City, NY-NJ Metro Area",15,6595.918097
+"Portland-South Portland, ME Metro Area",15,1759.276786
+"Richmond, VA Metro Area",15,382.8899859
+"Slidell-Mandeville-Covington, LA Metro Area",15,935.82902906505
+"Wilmington, NC Metro Area",15,1375.595338
+"Baltimore-Columbia-Towson, MD Metro Area",15,1371.631314
+"Palm Bay-Melbourne-Titusville, FL Metro Area",20,1701.978441
+"Dover, DE Metro Area",20,749.6994342
+"Lexington Park, MD Metro Area",20,1466.503081
+"Houston-Pasadena-The Woodlands, TX Metro Area",20,3999.09877814066
+"Brunswick-St. Simons, GA Metro Area",20,1572.211131
+"Cape Coral-Fort Myers, FL Metro Area",20,2205.694503
+"Lafayette, LA Metro Area",20,3544.54592178288
+"Barnstable Town, MA Metro Area",20,2424.203866
+"Port St. Lucie, FL Metro Area",20,639.3881645
+"Gainesville, FL Metro Area",20,1517.683782
+"Beaumont-Port Arthur, TX Metro Area",20,1620.18497706041
+"Bangor, ME Metro Area",20,6.803199842
+"Providence-Warwick, RI-MA Metro Area",20,1610.384823
+"Brownsville-Harlingen, TX Metro Area",20,1098.186242
+"Daphne-Fairhope-Foley, AL Metro Area",20,1425.540649
+"Tallahassee, FL Metro Area",20,1176.597407
+"Savannah, GA Metro Area",20,1148.144581
+"Boston-Cambridge-Newton, MA-NH Metro Area",20,2507.476503
+"Homosassa Springs, FL Metro Area",20,1079.120817
+"Jacksonville, FL Metro Area",20,1839.08288
+"Baton Rouge, LA Metro Area",20,1433.10045136389
+"Punta Gorda, FL Metro Area",20,896.4405743
+"New Haven, CT Metro Area",20,668.783439
+"Bridgeport-Stamford-Danbury, CT Metro Area",20,513.2327087
+"Atlantic City-Hammonton, NJ Metro Area",20,1711.203185
+"Victoria, TX Metro Area",20,13.59800709
+"Vineland, NJ Metro Area",20,758.7835824
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",20,677.2785067
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",20,929.2843273
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",20,1830.204551
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",20,316.8803638
+"Naples-Marco Island, FL Metro Area",20,2205.345211
+"North Port-Bradenton-Sarasota, FL Metro Area",20,1735.807885
+"Mobile, AL Metro Area",20,1265.685475
+"Hammond, LA Metro Area",20,407.12789082582
+"Hartford-West Hartford-East Hartford, CT Metro Area",20,271.492634
+"Hinesville, GA Metro Area",20,431.3983234
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",20,8314.91783785727
+"Charleston-North Charleston, SC Metro Area",20,2199.835511
+"Jacksonville, NC Metro Area",20,496.0603341
+"Pensacola-Ferry Pass-Brent, FL Metro Area",20,1921.176877
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",20,1911.032703
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",20,3011.62986
+"New Orleans-Metairie, LA Metro Area",20,16384.9547094587
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",20,4737.958105
+"Greenville, NC Metro Area",20,34.54537232
+"Norwich-New London-Willimantic, CT Metro Area",20,199.7734875
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",20,945.115325
+"Lake Charles, LA Metro Area",20,5610.46304532318
+"Corpus Christi, TX Metro Area",20,1937.595036
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",20,3726.21906
+"Gulfport-Biloxi, MS Metro Area",20,2263.82569922173
+"Panama City-Panama City Beach, FL Metro Area",20,1972.622783
+"Salisbury, MD Metro Area",20,1249.724671
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",20,320.7001949
+"New York-Newark-Jersey City, NY-NJ Metro Area",20,6731.593636
+"Portland-South Portland, ME Metro Area",20,1793.698188
+"Richmond, VA Metro Area",20,403.2472316
+"Slidell-Mandeville-Covington, LA Metro Area",20,975.32480534646
+"Wilmington, NC Metro Area",20,1444.856733
+"Baltimore-Columbia-Towson, MD Metro Area",20,1413.221993
+"Palm Bay-Melbourne-Titusville, FL Metro Area",25,1798.890409
+"Dover, DE Metro Area",25,770.4068511
+"Lexington Park, MD Metro Area",25,1486.340465
+"Houston-Pasadena-The Woodlands, TX Metro Area",25,4205.757934819
+"Brunswick-St. Simons, GA Metro Area",25,1646.174698
+"Cape Coral-Fort Myers, FL Metro Area",25,2294.693689
+"Lafayette, LA Metro Area",25,3848.66555505527
+"Barnstable Town, MA Metro Area",25,2444.107432
+"Port St. Lucie, FL Metro Area",25,663.8899948
+"Gainesville, FL Metro Area",25,1582.679099
+"Beaumont-Port Arthur, TX Metro Area",25,1867.54647370066
+"Bangor, ME Metro Area",25,6.938760283
+"Providence-Warwick, RI-MA Metro Area",25,1633.879142
+"Brownsville-Harlingen, TX Metro Area",25,1196.365172
+"Daphne-Fairhope-Foley, AL Metro Area",25,1460.509168
+"Tallahassee, FL Metro Area",25,1222.053476
+"Savannah, GA Metro Area",25,1214.804829
+"Boston-Cambridge-Newton, MA-NH Metro Area",25,2547.703984
+"Homosassa Springs, FL Metro Area",25,1107.177273
+"Jacksonville, FL Metro Area",25,1963.357275
+"Baton Rouge, LA Metro Area",25,1676.96277290771
+"Punta Gorda, FL Metro Area",25,962.2275127
+"New Haven, CT Metro Area",25,676.6884671
+"Bridgeport-Stamford-Danbury, CT Metro Area",25,524.3926261
+"Atlantic City-Hammonton, NJ Metro Area",25,1776.716925
+"Victoria, TX Metro Area",25,15.85665505
+"Vineland, NJ Metro Area",25,782.3667829
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",25,693.1510677
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",25,967.8428802
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",25,1857.23575
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",25,324.590284
+"Naples-Marco Island, FL Metro Area",25,2334.573157
+"North Port-Bradenton-Sarasota, FL Metro Area",25,1779.343248
+"Mobile, AL Metro Area",25,1292.298163
+"Hammond, LA Metro Area",25,415.917129439099
+"Hartford-West Hartford-East Hartford, CT Metro Area",25,281.9223155
+"Hinesville, GA Metro Area",25,456.3968357
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",25,8528.29243375388
+"Charleston-North Charleston, SC Metro Area",25,2380.638609
+"Jacksonville, NC Metro Area",25,511.6516232
+"Pensacola-Ferry Pass-Brent, FL Metro Area",25,1970.443186
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",25,2036.455366
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",25,3258.095686
+"New Orleans-Metairie, LA Metro Area",25,16612.9282550595
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",25,5026.641977
+"Greenville, NC Metro Area",25,42.07257363
+"Norwich-New London-Willimantic, CT Metro Area",25,206.090716
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",25,1012.796433
+"Lake Charles, LA Metro Area",25,5805.517235125
+"Corpus Christi, TX Metro Area",25,2045.785137
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",25,3845.765704
+"Gulfport-Biloxi, MS Metro Area",25,2331.0289916372
+"Panama City-Panama City Beach, FL Metro Area",25,2023.868067
+"Salisbury, MD Metro Area",25,1329.915866
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",25,333.0641703
+"New York-Newark-Jersey City, NY-NJ Metro Area",25,6875.020739
+"Portland-South Portland, ME Metro Area",25,1819.421421
+"Richmond, VA Metro Area",25,423.1296161
+"Slidell-Mandeville-Covington, LA Metro Area",25,1014.78341084289
+"Wilmington, NC Metro Area",25,1498.542264
+"Baltimore-Columbia-Towson, MD Metro Area",25,1461.349546
+"Palm Bay-Melbourne-Titusville, FL Metro Area",30,1858.671204
+"Dover, DE Metro Area",30,789.7660171
+"Lexington Park, MD Metro Area",30,1506.992651
+"Houston-Pasadena-The Woodlands, TX Metro Area",30,4362.94897181755
+"Brunswick-St. Simons, GA Metro Area",30,1746.223339
+"Cape Coral-Fort Myers, FL Metro Area",30,2379.45909
+"Lafayette, LA Metro Area",30,4115.75300907308
+"Barnstable Town, MA Metro Area",30,2469.695984
+"Port St. Lucie, FL Metro Area",30,695.9703412
+"Gainesville, FL Metro Area",30,1646.160391
+"Beaumont-Port Arthur, TX Metro Area",30,1995.45114482261
+"Bangor, ME Metro Area",30,7.118122093
+"Providence-Warwick, RI-MA Metro Area",30,1656.214243
+"Brownsville-Harlingen, TX Metro Area",30,1293.802676
+"Daphne-Fairhope-Foley, AL Metro Area",30,1496.13143
+"Tallahassee, FL Metro Area",30,1276.696803
+"Savannah, GA Metro Area",30,1272.079355
+"Boston-Cambridge-Newton, MA-NH Metro Area",30,2587.197073
+"Homosassa Springs, FL Metro Area",30,1139.17745
+"Jacksonville, FL Metro Area",30,2075.256904
+"Baton Rouge, LA Metro Area",30,1908.25690863352
+"Punta Gorda, FL Metro Area",30,1009.446427
+"New Haven, CT Metro Area",30,685.7324107
+"Bridgeport-Stamford-Danbury, CT Metro Area",30,534.0328438
+"Atlantic City-Hammonton, NJ Metro Area",30,1831.152834
+"Victoria, TX Metro Area",30,26.81475043
+"Vineland, NJ Metro Area",30,806.9318375
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",30,710.3222434
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",30,1031.092936
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",30,1887.852587
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",30,335.679224
+"Naples-Marco Island, FL Metro Area",30,2495.549502
+"North Port-Bradenton-Sarasota, FL Metro Area",30,1829.159792
+"Mobile, AL Metro Area",30,1322.97223
+"Hammond, LA Metro Area",30,423.59430076747
+"Hartford-West Hartford-East Hartford, CT Metro Area",30,290.648859
+"Hinesville, GA Metro Area",30,477.4456315
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",30,8679.55101346936
+"Charleston-North Charleston, SC Metro Area",30,2552.75417
+"Jacksonville, NC Metro Area",30,527.9832193
+"Pensacola-Ferry Pass-Brent, FL Metro Area",30,2014.86161
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",30,2156.576304
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",30,3562.979111
+"New Orleans-Metairie, LA Metro Area",30,16741.0116763564
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",30,5324.308087
+"Greenville, NC Metro Area",30,49.27198403
+"Norwich-New London-Willimantic, CT Metro Area",30,210.2205137
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",30,1092.956375
+"Lake Charles, LA Metro Area",30,5991.29673586168
+"Corpus Christi, TX Metro Area",30,2141.739469
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",30,3951.76134
+"Gulfport-Biloxi, MS Metro Area",30,2390.13582626971
+"Panama City-Panama City Beach, FL Metro Area",30,2082.52921
+"Salisbury, MD Metro Area",30,1394.133468
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",30,340.7366036
+"New York-Newark-Jersey City, NY-NJ Metro Area",30,7035.796381
+"Portland-South Portland, ME Metro Area",30,1837.539681
+"Richmond, VA Metro Area",30,447.9058445
+"Slidell-Mandeville-Covington, LA Metro Area",30,1045.75931279952
+"Wilmington, NC Metro Area",30,1550.199824
+"Baltimore-Columbia-Towson, MD Metro Area",30,1518.678904
+"Palm Bay-Melbourne-Titusville, FL Metro Area",35,1897.206258
+"Dover, DE Metro Area",35,811.5361766
+"Lexington Park, MD Metro Area",35,1527.023465
+"Houston-Pasadena-The Woodlands, TX Metro Area",35,4624.33830970116
+"Brunswick-St. Simons, GA Metro Area",35,1851.212982
+"Cape Coral-Fort Myers, FL Metro Area",35,2447.797698
+"Lafayette, LA Metro Area",35,4366.57898807711
+"Barnstable Town, MA Metro Area",35,2490.078008
+"Port St. Lucie, FL Metro Area",35,957.942492
+"Gainesville, FL Metro Area",35,1704.940788
+"Beaumont-Port Arthur, TX Metro Area",35,2158.50880551395
+"Bangor, ME Metro Area",35,7.364544758
+"Providence-Warwick, RI-MA Metro Area",35,1676.973854
+"Brownsville-Harlingen, TX Metro Area",35,1385.839663
+"Daphne-Fairhope-Foley, AL Metro Area",35,1530.803491
+"Tallahassee, FL Metro Area",35,1329.248694
+"Savannah, GA Metro Area",35,1335.004418
+"Boston-Cambridge-Newton, MA-NH Metro Area",35,2636.335574
+"Homosassa Springs, FL Metro Area",35,1166.384894
+"Jacksonville, FL Metro Area",35,2196.365051
+"Baton Rouge, LA Metro Area",35,2162.36952844564
+"Punta Gorda, FL Metro Area",35,1046.927611
+"New Haven, CT Metro Area",35,693.4382544
+"Bridgeport-Stamford-Danbury, CT Metro Area",35,541.5029754
+"Atlantic City-Hammonton, NJ Metro Area",35,1879.961547
+"Victoria, TX Metro Area",35,33.7022759
+"Vineland, NJ Metro Area",35,827.9811128
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",35,728.8606932
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",35,1101.520022
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",35,1921.399241
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",35,346.3325482
+"Naples-Marco Island, FL Metro Area",35,2631.593357
+"North Port-Bradenton-Sarasota, FL Metro Area",35,1885.147134
+"Mobile, AL Metro Area",35,1351.003507
+"Hammond, LA Metro Area",35,430.38928546561
+"Hartford-West Hartford-East Hartford, CT Metro Area",35,303.3446218
+"Hinesville, GA Metro Area",35,498.4069045
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",35,8817.4248891234
+"Charleston-North Charleston, SC Metro Area",35,2719.333094
+"Jacksonville, NC Metro Area",35,544.7563461
+"Pensacola-Ferry Pass-Brent, FL Metro Area",35,2056.336231
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",35,2266.526851
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",35,4465.60519
+"New Orleans-Metairie, LA Metro Area",35,16853.4123304607
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",35,5622.02775
+"Greenville, NC Metro Area",35,57.26493455
+"Norwich-New London-Willimantic, CT Metro Area",35,214.2049995
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",35,1176.234447
+"Lake Charles, LA Metro Area",35,6180.07633195511
+"Corpus Christi, TX Metro Area",35,2223.281392
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",35,4041.398843
+"Gulfport-Biloxi, MS Metro Area",35,2486.04223364455
+"Panama City-Panama City Beach, FL Metro Area",35,2132.95154
+"Salisbury, MD Metro Area",35,1459.96277
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",35,348.43941
+"New York-Newark-Jersey City, NY-NJ Metro Area",35,7176.493891
+"Portland-South Portland, ME Metro Area",35,1855.030735
+"Richmond, VA Metro Area",35,473.258924
+"Slidell-Mandeville-Covington, LA Metro Area",35,1079.71664211866
+"Wilmington, NC Metro Area",35,1607.441739
+"Baltimore-Columbia-Towson, MD Metro Area",35,1572.576489
+"Palm Bay-Melbourne-Titusville, FL Metro Area",40,1917.012949
+"Dover, DE Metro Area",40,833.2598972
+"Lexington Park, MD Metro Area",40,1548.207901
+"Houston-Pasadena-The Woodlands, TX Metro Area",40,4846.3022479896
+"Brunswick-St. Simons, GA Metro Area",40,1961.679875
+"Cape Coral-Fort Myers, FL Metro Area",40,2515.694295
+"Lafayette, LA Metro Area",40,4698.37549223639
+"Barnstable Town, MA Metro Area",40,2511.315517
+"Port St. Lucie, FL Metro Area",40,1023.585158
+"Gainesville, FL Metro Area",40,1754.73679
+"Beaumont-Port Arthur, TX Metro Area",40,2317.73291924751
+"Bangor, ME Metro Area",40,7.580913929
+"Providence-Warwick, RI-MA Metro Area",40,1700.218713
+"Brownsville-Harlingen, TX Metro Area",40,1463.470396
+"Daphne-Fairhope-Foley, AL Metro Area",40,1558.25456
+"Tallahassee, FL Metro Area",40,1379.073071
+"Savannah, GA Metro Area",40,1402.917242
+"Boston-Cambridge-Newton, MA-NH Metro Area",40,2679.969731
+"Homosassa Springs, FL Metro Area",40,1189.567008
+"Jacksonville, FL Metro Area",40,2335.434078
+"Baton Rouge, LA Metro Area",40,2430.31232352675
+"Punta Gorda, FL Metro Area",40,1079.849774
+"New Haven, CT Metro Area",40,701.1325883
+"Bridgeport-Stamford-Danbury, CT Metro Area",40,547.1643823
+"Atlantic City-Hammonton, NJ Metro Area",40,1924.341446
+"Victoria, TX Metro Area",40,42.36247794
+"Vineland, NJ Metro Area",40,848.1231883
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",40,749.188365
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",40,1157.441342
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",40,1950.759746
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",40,356.2097568
+"Naples-Marco Island, FL Metro Area",40,2788.855298
+"North Port-Bradenton-Sarasota, FL Metro Area",40,1953.044371
+"Mobile, AL Metro Area",40,1379.704434
+"Hammond, LA Metro Area",40,438.979453874876
+"Hartford-West Hartford-East Hartford, CT Metro Area",40,313.3669026
+"Hinesville, GA Metro Area",40,524.0006518
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",40,8916.58564002426
+"Charleston-North Charleston, SC Metro Area",40,2885.769264
+"Jacksonville, NC Metro Area",40,561.7165878
+"Pensacola-Ferry Pass-Brent, FL Metro Area",40,2096.174855
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",40,2361.552163
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",40,4822.539108
+"New Orleans-Metairie, LA Metro Area",40,17021.7613762968
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",40,5924.990948
+"Greenville, NC Metro Area",40,66.38041505
+"Norwich-New London-Willimantic, CT Metro Area",40,217.9679208
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",40,1256.184654
+"Lake Charles, LA Metro Area",40,6377.21943727115
+"Corpus Christi, TX Metro Area",40,2305.190751
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",40,4121.37199
+"Gulfport-Biloxi, MS Metro Area",40,2580.90248992651
+"Panama City-Panama City Beach, FL Metro Area",40,2183.844254
+"Salisbury, MD Metro Area",40,1513.323468
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",40,354.025843
+"New York-Newark-Jersey City, NY-NJ Metro Area",40,7296.689164
+"Portland-South Portland, ME Metro Area",40,1872.29303
+"Richmond, VA Metro Area",40,498.3830855
+"Slidell-Mandeville-Covington, LA Metro Area",40,1110.42053653097
+"Wilmington, NC Metro Area",40,1671.345698
+"Baltimore-Columbia-Towson, MD Metro Area",40,1621.448825
+"Palm Bay-Melbourne-Titusville, FL Metro Area",45,1930.995097
+"Dover, DE Metro Area",45,857.9385316
+"Lexington Park, MD Metro Area",45,1572.80229
+"Houston-Pasadena-The Woodlands, TX Metro Area",45,5039.53961242326
+"Brunswick-St. Simons, GA Metro Area",45,2077.715136
+"Cape Coral-Fort Myers, FL Metro Area",45,2579.343679
+"Lafayette, LA Metro Area",45,4931.03949529139
+"Barnstable Town, MA Metro Area",45,2529.418671
+"Port St. Lucie, FL Metro Area",45,1074.981348
+"Gainesville, FL Metro Area",45,1798.965063
+"Beaumont-Port Arthur, TX Metro Area",45,2420.86714446116
+"Bangor, ME Metro Area",45,7.870818244
+"Providence-Warwick, RI-MA Metro Area",45,1720.095583
+"Brownsville-Harlingen, TX Metro Area",45,1538.032555
+"Daphne-Fairhope-Foley, AL Metro Area",45,1580.429083
+"Tallahassee, FL Metro Area",45,1432.27399
+"Savannah, GA Metro Area",45,1483.275728
+"Boston-Cambridge-Newton, MA-NH Metro Area",45,2722.033912
+"Homosassa Springs, FL Metro Area",45,1212.583988
+"Jacksonville, FL Metro Area",45,2487.164977
+"Baton Rouge, LA Metro Area",45,2693.86359686664
+"Punta Gorda, FL Metro Area",45,1109.99231
+"New Haven, CT Metro Area",45,707.9686392
+"Bridgeport-Stamford-Danbury, CT Metro Area",45,552.7397051
+"Atlantic City-Hammonton, NJ Metro Area",45,1969.471163
+"Victoria, TX Metro Area",45,54.37196604
+"Vineland, NJ Metro Area",45,865.0708012
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",45,771.5387328
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",45,1203.759131
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",45,1984.404872
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",45,372.2540064
+"Naples-Marco Island, FL Metro Area",45,2967.355788
+"North Port-Bradenton-Sarasota, FL Metro Area",45,2037.397415
+"Mobile, AL Metro Area",45,1414.365864
+"Hammond, LA Metro Area",45,448.439996864923
+"Hartford-West Hartford-East Hartford, CT Metro Area",45,322.7118607
+"Hinesville, GA Metro Area",45,559.5806316
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",45,8977.83846797637
+"Charleston-North Charleston, SC Metro Area",45,3043.211766
+"Jacksonville, NC Metro Area",45,579.9823181
+"Pensacola-Ferry Pass-Brent, FL Metro Area",45,2134.677298
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",45,2458.709993
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",45,5212.855344
+"New Orleans-Metairie, LA Metro Area",45,17144.8853888596
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",45,6230.939833
+"Greenville, NC Metro Area",45,77.73983649
+"Norwich-New London-Willimantic, CT Metro Area",45,222.0179488
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",45,1323.133767
+"Lake Charles, LA Metro Area",45,6572.55951171036
+"Corpus Christi, TX Metro Area",45,2390.579042
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",45,4194.87924
+"Gulfport-Biloxi, MS Metro Area",45,2653.96340244463
+"Panama City-Panama City Beach, FL Metro Area",45,2239.355376
+"Salisbury, MD Metro Area",45,1571.52038
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",45,358.566798
+"New York-Newark-Jersey City, NY-NJ Metro Area",45,7409.088512
+"Portland-South Portland, ME Metro Area",45,1888.253834
+"Richmond, VA Metro Area",45,522.6104379
+"Slidell-Mandeville-Covington, LA Metro Area",45,1144.14443332042
+"Wilmington, NC Metro Area",45,1733.38722
+"Baltimore-Columbia-Towson, MD Metro Area",45,1667.407731
+"Palm Bay-Melbourne-Titusville, FL Metro Area",50,1943.530282
+"Dover, DE Metro Area",50,882.9072301
+"Lexington Park, MD Metro Area",50,1596.752127
+"Houston-Pasadena-The Woodlands, TX Metro Area",50,5267.51869234092
+"Brunswick-St. Simons, GA Metro Area",50,2211.79808
+"Cape Coral-Fort Myers, FL Metro Area",50,2653.811282
+"Lafayette, LA Metro Area",50,5169.56797439383
+"Barnstable Town, MA Metro Area",50,2548.825795
+"Port St. Lucie, FL Metro Area",50,1125.507906
+"Gainesville, FL Metro Area",50,1832.918397
+"Beaumont-Port Arthur, TX Metro Area",50,2534.69573492102
+"Bangor, ME Metro Area",50,8.150091936
+"Providence-Warwick, RI-MA Metro Area",50,1740.083714
+"Brownsville-Harlingen, TX Metro Area",50,1605.701674
+"Daphne-Fairhope-Foley, AL Metro Area",50,1600.276618
+"Tallahassee, FL Metro Area",50,1474.927331
+"Savannah, GA Metro Area",50,1596.765795
+"Boston-Cambridge-Newton, MA-NH Metro Area",50,2758.497353
+"Homosassa Springs, FL Metro Area",50,1230.712479
+"Jacksonville, FL Metro Area",50,2653.284866
+"Baton Rouge, LA Metro Area",50,2945.86409007435
+"Punta Gorda, FL Metro Area",50,1144.537522
+"New Haven, CT Metro Area",50,714.4204689
+"Bridgeport-Stamford-Danbury, CT Metro Area",50,557.8451223
+"Atlantic City-Hammonton, NJ Metro Area",50,2012.25399
+"Victoria, TX Metro Area",50,61.93489583
+"Vineland, NJ Metro Area",50,879.9498384
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",50,795.0861249
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",50,1240.646838
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",50,2018.159981
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",50,385.846978
+"Naples-Marco Island, FL Metro Area",50,3160.520784
+"North Port-Bradenton-Sarasota, FL Metro Area",50,2134.169825
+"Mobile, AL Metro Area",50,1456.03927
+"Hammond, LA Metro Area",50,457.908552224178
+"Hartford-West Hartford-East Hartford, CT Metro Area",50,330.711845
+"Hinesville, GA Metro Area",50,608.5571163
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",50,9018.97975360805
+"Charleston-North Charleston, SC Metro Area",50,3186.479889
+"Jacksonville, NC Metro Area",50,601.0578104
+"Pensacola-Ferry Pass-Brent, FL Metro Area",50,2173.228737
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",50,2576.579397
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",50,5744.55049
+"New Orleans-Metairie, LA Metro Area",50,17219.3318630384
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",50,6500.160631
+"Greenville, NC Metro Area",50,89.522085
+"Norwich-New London-Willimantic, CT Metro Area",50,226.3416555
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",50,1386.004158
+"Lake Charles, LA Metro Area",50,6750.76583671487
+"Corpus Christi, TX Metro Area",50,2488.960034
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",50,4270.847359
+"Gulfport-Biloxi, MS Metro Area",50,2758.28717537944
+"Panama City-Panama City Beach, FL Metro Area",50,2292.447191
+"Salisbury, MD Metro Area",50,1621.73809
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",50,363.2286864
+"New York-Newark-Jersey City, NY-NJ Metro Area",50,7509.284143
+"Portland-South Portland, ME Metro Area",50,1904.746488
+"Richmond, VA Metro Area",50,547.3222431
+"Slidell-Mandeville-Covington, LA Metro Area",50,1182.63783743349
+"Wilmington, NC Metro Area",50,1800.833575
+"Baltimore-Columbia-Towson, MD Metro Area",50,1713.581328

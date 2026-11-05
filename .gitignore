@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------------------
+# Large input rasters — hosted on Zenodo, not tracked in Git
+# ---------------------------------------------------------------------------
+Data/Input_data/Building_IDs/*.tif
+Data/Input_data/MSBF/*.tif
+Data/Input_data/Census_tract/*.tif
+Data/Input_data/Pop/*.tif
+Data/Input_data/Surge/**/*.tif
+
+# Large / binary CBSA shapefile components (keep .prj / .cpg / .shp.xml in Git)
+Data/Input_data/CBSA/tl_2025_us_cbsa/*.shp
+Data/Input_data/CBSA/tl_2025_us_cbsa/*.dbf
+Data/Input_data/CBSA/tl_2025_us_cbsa/*.sbn
+Data/Input_data/CBSA/tl_2025_us_cbsa/*.sbx
+Data/Input_data/CBSA/tl_2025_us_cbsa/*.shx
+
+# ---------------------------------------------------------------------------
+# Temporary / cached intermediates
+# ---------------------------------------------------------------------------
+Data/Temp/
+Data/Output_data/**/*.tif
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# R / RStudio / renv
+# ---------------------------------------------------------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/local/
+renv/cellar/
+renv/python/
+renv/staging/
+
+# ---------------------------------------------------------------------------
+# OS / Editor
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

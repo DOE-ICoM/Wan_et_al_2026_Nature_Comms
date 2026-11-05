@@ -1,0 +1,546 @@
+{
+    "12100": {
+        "cbsa_name": "Atlantic City-Hammonton, NJ Metro Area",
+        "county_fips": [
+            "34001",
+            "34009"
+        ]
+    },
+    "12580": {
+        "cbsa_name": "Baltimore-Columbia-Towson, MD Metro Area",
+        "county_fips": [
+            "24003",
+            "24005",
+            "24013",
+            "24025",
+            "24027",
+            "24035",
+            "24510"
+        ]
+    },
+    "12620": {
+        "cbsa_name": "Bangor, ME Metro Area",
+        "county_fips": [
+            "23019"
+        ]
+    },
+    "12700": {
+        "cbsa_name": "Barnstable Town, MA Metro Area",
+        "county_fips": [
+            "25001"
+        ]
+    },
+    "12940": {
+        "cbsa_name": "Baton Rouge, LA Metro Area",
+        "county_fips": [
+            "22005",
+            "22007",
+            "22033",
+            "22037",
+            "22047",
+            "22063",
+            "22077",
+            "22091",
+            "22121",
+            "22125"
+        ]
+    },
+    "13140": {
+        "cbsa_name": "Beaumont-Port Arthur, TX Metro Area",
+        "county_fips": [
+            "48199",
+            "48245",
+            "48361"
+        ]
+    },
+    "14460": {
+        "cbsa_name": "Boston-Cambridge-Newton, MA-NH Metro Area",
+        "county_fips": [
+            "25009",
+            "25017",
+            "25021",
+            "25023",
+            "25025",
+            "33015",
+            "33017"
+        ]
+    },
+    "14860": {
+        "cbsa_name": "Bridgeport-Stamford-Danbury, CT Metro Area",
+        "county_fips": [
+            "09120",
+            "09190"
+        ]
+    },
+    "15180": {
+        "cbsa_name": "Brownsville-Harlingen, TX Metro Area",
+        "county_fips": [
+            "48061"
+        ]
+    },
+    "15260": {
+        "cbsa_name": "Brunswick-St. Simons, GA Metro Area",
+        "county_fips": [
+            "13025",
+            "13127",
+            "13191"
+        ]
+    },
+    "15980": {
+        "cbsa_name": "Cape Coral-Fort Myers, FL Metro Area",
+        "county_fips": [
+            "12071"
+        ]
+    },
+    "16700": {
+        "cbsa_name": "Charleston-North Charleston, SC Metro Area",
+        "county_fips": [
+            "45015",
+            "45019",
+            "45035"
+        ]
+    },
+    "18580": {
+        "cbsa_name": "Corpus Christi, TX Metro Area",
+        "county_fips": [
+            "48007",
+            "48355",
+            "48409"
+        ]
+    },
+    "18880": {
+        "cbsa_name": "Crestview-Fort Walton Beach-Destin, FL Metro Area",
+        "county_fips": [
+            "12091",
+            "12131"
+        ]
+    },
+    "19300": {
+        "cbsa_name": "Daphne-Fairhope-Foley, AL Metro Area",
+        "county_fips": [
+            "01003"
+        ]
+    },
+    "19660": {
+        "cbsa_name": "Deltona-Daytona Beach-Ormond Beach, FL Metro Area",
+        "county_fips": [
+            "12035",
+            "12127"
+        ]
+    },
+    "20100": {
+        "cbsa_name": "Dover, DE Metro Area",
+        "county_fips": [
+            "10001"
+        ]
+    },
+    "23540": {
+        "cbsa_name": "Gainesville, FL Metro Area",
+        "county_fips": [
+            "12001",
+            "12041",
+            "12075"
+        ]
+    },
+    "24780": {
+        "cbsa_name": "Greenville, NC Metro Area",
+        "county_fips": [
+            "37147"
+        ]
+    },
+    "25060": {
+        "cbsa_name": "Gulfport-Biloxi, MS Metro Area",
+        "county_fips": [
+            "28045",
+            "28047",
+            "28059",
+            "28131"
+        ]
+    },
+    "25220": {
+        "cbsa_name": "Hammond, LA Metro Area",
+        "county_fips": [
+            "22105"
+        ]
+    },
+    "25540": {
+        "cbsa_name": "Hartford-West Hartford-East Hartford, CT Metro Area",
+        "county_fips": [
+            "09110",
+            "09130"
+        ]
+    },
+    "25940": {
+        "cbsa_name": "Hilton Head Island-Bluffton-Port Royal, SC Metro Area",
+        "county_fips": [
+            "45013",
+            "45053"
+        ]
+    },
+    "25980": {
+        "cbsa_name": "Hinesville, GA Metro Area",
+        "county_fips": [
+            "13179",
+            "13183"
+        ]
+    },
+    "26140": {
+        "cbsa_name": "Homosassa Springs, FL Metro Area",
+        "county_fips": [
+            "12017"
+        ]
+    },
+    "26380": {
+        "cbsa_name": "Houma-Bayou Cane-Thibodaux, LA Metro Area",
+        "county_fips": [
+            "22057",
+            "22109"
+        ]
+    },
+    "26420": {
+        "cbsa_name": "Houston-Pasadena-The Woodlands, TX Metro Area",
+        "county_fips": [
+            "48015",
+            "48039",
+            "48071",
+            "48157",
+            "48167",
+            "48201",
+            "48291",
+            "48339",
+            "48407",
+            "48473"
+        ]
+    },
+    "27260": {
+        "cbsa_name": "Jacksonville, FL Metro Area",
+        "county_fips": [
+            "12003",
+            "12019",
+            "12031",
+            "12089",
+            "12109"
+        ]
+    },
+    "27340": {
+        "cbsa_name": "Jacksonville, NC Metro Area",
+        "county_fips": [
+            "37133"
+        ]
+    },
+    "29180": {
+        "cbsa_name": "Lafayette, LA Metro Area",
+        "county_fips": [
+            "22001",
+            "22055",
+            "22099",
+            "22113"
+        ]
+    },
+    "29340": {
+        "cbsa_name": "Lake Charles, LA Metro Area",
+        "county_fips": [
+            "22019",
+            "22023",
+            "22053"
+        ]
+    },
+    "30500": {
+        "cbsa_name": "Lexington Park, MD Metro Area",
+        "county_fips": [
+            "24009",
+            "24037"
+        ]
+    },
+    "33100": {
+        "cbsa_name": "Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",
+        "county_fips": [
+            "12011",
+            "12086",
+            "12099"
+        ]
+    },
+    "33660": {
+        "cbsa_name": "Mobile, AL Metro Area",
+        "county_fips": [
+            "01097"
+        ]
+    },
+    "34820": {
+        "cbsa_name": "Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",
+        "county_fips": [
+            "45051"
+        ]
+    },
+    "34940": {
+        "cbsa_name": "Naples-Marco Island, FL Metro Area",
+        "county_fips": [
+            "12021"
+        ]
+    },
+    "35300": {
+        "cbsa_name": "New Haven, CT Metro Area",
+        "county_fips": [
+            "09170"
+        ]
+    },
+    "35380": {
+        "cbsa_name": "New Orleans-Metairie, LA Metro Area",
+        "county_fips": [
+            "22051",
+            "22071",
+            "22075",
+            "22087",
+            "22089",
+            "22093",
+            "22095"
+        ]
+    },
+    "35620": {
+        "cbsa_name": "New York-Newark-Jersey City, NY-NJ Metro Area",
+        "county_fips": [
+            "34003",
+            "34013",
+            "34017",
+            "34019",
+            "34023",
+            "34025",
+            "34027",
+            "34029",
+            "34031",
+            "34035",
+            "34037",
+            "34039",
+            "36005",
+            "36047",
+            "36059",
+            "36061",
+            "36079",
+            "36081",
+            "36085",
+            "36087",
+            "36103",
+            "36119"
+        ]
+    },
+    "35840": {
+        "cbsa_name": "North Port-Bradenton-Sarasota, FL Metro Area",
+        "county_fips": [
+            "12081",
+            "12115"
+        ]
+    },
+    "35980": {
+        "cbsa_name": "Norwich-New London-Willimantic, CT Metro Area",
+        "county_fips": [
+            "09180"
+        ]
+    },
+    "37340": {
+        "cbsa_name": "Palm Bay-Melbourne-Titusville, FL Metro Area",
+        "county_fips": [
+            "12009"
+        ]
+    },
+    "37460": {
+        "cbsa_name": "Panama City-Panama City Beach, FL Metro Area",
+        "county_fips": [
+            "12005",
+            "12133"
+        ]
+    },
+    "37860": {
+        "cbsa_name": "Pensacola-Ferry Pass-Brent, FL Metro Area",
+        "county_fips": [
+            "12033",
+            "12113"
+        ]
+    },
+    "37980": {
+        "cbsa_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",
+        "county_fips": [
+            "10003",
+            "24015",
+            "34005",
+            "34007",
+            "34015",
+            "34033",
+            "42017",
+            "42029",
+            "42045",
+            "42091",
+            "42101"
+        ]
+    },
+    "38860": {
+        "cbsa_name": "Portland-South Portland, ME Metro Area",
+        "county_fips": [
+            "23005",
+            "23023",
+            "23031"
+        ]
+    },
+    "38940": {
+        "cbsa_name": "Port St. Lucie, FL Metro Area",
+        "county_fips": [
+            "12085",
+            "12111"
+        ]
+    },
+    "39300": {
+        "cbsa_name": "Providence-Warwick, RI-MA Metro Area",
+        "county_fips": [
+            "25005",
+            "44001",
+            "44003",
+            "44005",
+            "44007",
+            "44009"
+        ]
+    },
+    "39460": {
+        "cbsa_name": "Punta Gorda, FL Metro Area",
+        "county_fips": [
+            "12015"
+        ]
+    },
+    "40060": {
+        "cbsa_name": "Richmond, VA Metro Area",
+        "county_fips": [
+            "51007",
+            "51036",
+            "51041",
+            "51053",
+            "51075",
+            "51085",
+            "51087",
+            "51097",
+            "51101",
+            "51127",
+            "51145",
+            "51149",
+            "51183",
+            "51570",
+            "51670",
+            "51730",
+            "51760"
+        ]
+    },
+    "41540": {
+        "cbsa_name": "Salisbury, MD Metro Area",
+        "county_fips": [
+            "24039",
+            "24045"
+        ]
+    },
+    "42340": {
+        "cbsa_name": "Savannah, GA Metro Area",
+        "county_fips": [
+            "13029",
+            "13051",
+            "13103"
+        ]
+    },
+    "42680": {
+        "cbsa_name": "Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",
+        "county_fips": [
+            "12061"
+        ]
+    },
+    "43640": {
+        "cbsa_name": "Slidell-Mandeville-Covington, LA Metro Area",
+        "county_fips": [
+            "22103"
+        ]
+    },
+    "45220": {
+        "cbsa_name": "Tallahassee, FL Metro Area",
+        "county_fips": [
+            "12039",
+            "12065",
+            "12073",
+            "12129"
+        ]
+    },
+    "45300": {
+        "cbsa_name": "Tampa-St. Petersburg-Clearwater, FL Metro Area",
+        "county_fips": [
+            "12053",
+            "12057",
+            "12101",
+            "12103"
+        ]
+    },
+    "47020": {
+        "cbsa_name": "Victoria, TX Metro Area",
+        "county_fips": [
+            "48175",
+            "48469"
+        ]
+    },
+    "47220": {
+        "cbsa_name": "Vineland, NJ Metro Area",
+        "county_fips": [
+            "34011"
+        ]
+    },
+    "47260": {
+        "cbsa_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",
+        "county_fips": [
+            "37029",
+            "37053",
+            "37073",
+            "51073",
+            "51093",
+            "51095",
+            "51115",
+            "51181",
+            "51199",
+            "51550",
+            "51650",
+            "51700",
+            "51710",
+            "51735",
+            "51740",
+            "51800",
+            "51810",
+            "51830"
+        ]
+    },
+    "47900": {
+        "cbsa_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",
+        "county_fips": [
+            "11001",
+            "24017",
+            "24021",
+            "24031",
+            "24033",
+            "51013",
+            "51043",
+            "51047",
+            "51059",
+            "51061",
+            "51107",
+            "51153",
+            "51157",
+            "51177",
+            "51179",
+            "51187",
+            "51510",
+            "51600",
+            "51610",
+            "51630",
+            "51683",
+            "51685",
+            "54037"
+        ]
+    },
+    "48900": {
+        "cbsa_name": "Wilmington, NC Metro Area",
+        "county_fips": [
+            "37019",
+            "37129",
+            "37141"
+        ]
+    }
+}

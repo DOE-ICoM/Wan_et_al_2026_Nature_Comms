@@ -56,6 +56,34 @@ Attenuation scenarios are named `Att00` and `Att50`.
 
 ---
 
+## Data availability
+
+Large raster input datasets (building heights, building IDs, census-tract
+rasters, 10 m population rasters, and per-block storm-surge rasters) are **not
+stored directly in this GitHub repository** due to file-size limits. They are
+archived on **Zenodo**:
+
+> Wan, H. et al. *Input data for Wan et al. (2026), Nature Communications.*
+> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX  *(DOI will be added upon publication)*
+
+After downloading the Zenodo archive, extract it into the repository root so
+that the folder layout matches the structure shown above, i.e.:
+
+```
+Data/Input_data/Building_IDs/
+Data/Input_data/MSBF/
+Data/Input_data/Census_tract/
+Data/Input_data/Pop/
+Data/Input_data/Surge/Block-XX/
+Data/Input_data/CBSA/
+```
+
+Small metadata files (e.g. `CTXX.csv`, `cbsa_to_county_fips.json`) and all
+outputs under `Data/Output_data/` are produced by the scripts in this
+repository and are not required to be downloaded separately.
+
+---
+
 ## Inputs
 
 All rasters within a given block are expected to be **co-registered on the same 10 m grid**
@@ -241,11 +269,15 @@ tables in `Data/Output_data/`.
 
 ## Citation
 
-If you use this code or data, please cite:
+If you use this code or data, please cite both the paper and the archived
+dataset / code release:
 
-> Wan, H. et al. *Costal Flood Impact Sensitivity in the Eastern United States*.**Nature Communications** (2026).
+> Wan, H. et al. *Title*. **Nature Communications** (2026).
+>
+> Wan, H. et al. *Input data for Wan et al. (2026), Nature Communications.*
+> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
-A full citation (DOI, bibtex) will be added upon publication.
+Full citations (DOI, BibTeX) will be added upon publication.
 
 ---
 
