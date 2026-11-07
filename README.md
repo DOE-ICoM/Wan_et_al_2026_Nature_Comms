@@ -286,24 +286,26 @@ tables in `Data/Output_data/`.
 
 ## Citation
 
-If you use this code or data, please cite both the paper and the archived
-dataset / code release:
+If you use this repository, please cite the relevant research products: 
 
-<<<<<<< HEAD
-> Wan, H. et al. (2026) *Coastal Flood Impact Sensitivity in the Eastern United States*. 
-> **Nature Communications**.
-=======
-> Wan, H. et al. *Coastal Flood Impact Sensitivity in the Eastern United States *. **Nature Communications** (2026).
->>>>>>> 56db7f5d3a2067776be5d50ecb1a37fba5f82d29
->
-> Wan, H. et al. (2026) *Wan_et_al_2026_Nature_Comms (Version v1) [Data set].* 
+### Associated paper
+
+> Wan, H. et al. *Coastal Flood Impact Sensitivity in the Eastern United States.*
+> Manuscript in preparation for **Nature Communications**.
+
+### Code repository
+> Wan, H. et al. (2026). *Wan_et_al_2026_Nature_Comms* (Version v1). GitHub.
+> https://github.com/DOE-ICoM/Wan_et_al_2026_Nature_Comms.git
+
+### Input dataset
+> Wan, H. et al. (2026). *Wan_et_al_2026_Nature_Comms* (Version v1) [Data set].
 > MSD-LIVE Data Repository. https://doi.org/10.57931/17427421
 
-Full citations (DOI, BibTeX) will be added upon publication.
+Full citation details for the paper will be updated after submission and publication.
 
 ---
 
 ## Contact
 
 For questions about the code or data, please open an issue on the GitHub
-repository or contact the corresponding author.
+repository or contact the corresponding author via heng.wan@pnnl.gov.
