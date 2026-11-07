@@ -59,12 +59,6 @@ IDENTITY_STATS = BuildingDamageStats()
 
 # ---------------------------------------------------------------------------
 # Damage percentage curves
-#
-# NOTE: Interpolations.jl's `scale(itp, range(min(xs), max(xs), length(xs)))`
-# places the knots on a UNIFORM grid, so the high-rise curve's non-uniform xs
-# were effectively ignored in the original script. That behaviour is preserved
-# here. `Cubic(Line(OnGrid()))` == natural cubic spline; `Flat()` extrapolation
-# == clamping the input to the knot range.
 # ---------------------------------------------------------------------------
 def _make_damage_curve(ys, x_min: float, x_max: float) -> Callable[[np.ndarray], np.ndarray]:
     ys = np.asarray(ys, dtype=np.float64)

@@ -184,11 +184,6 @@ Building_ID, Census_Tract_ID, Building_Type,
 Estimated_Building_Value, Damage_Loss_Dollars, Inundated_Population
 ```
 
-> ⚠️ Running every block × scenario is time- and I/O-intensive. The default
-> `go()` call in the script is set to a small test range. Edit the `blocks`,
-> `attenuations`, and `surges` arguments at the bottom of the file to control
-> what is processed.
-
 ### 2. Tract-level total property value
 
 ```bash
@@ -246,8 +241,7 @@ Data/Output_data/total_flooded_area_all_msas.csv
 
 The script is parallelized across surge heights with `foreach` + `doParallel`
 (default `parallel::detectCores() - 4`) and caches intermediate rasters under
-`Data/Temp/R_temp/`. All paths are resolved relative to the project root via
-`here::here()`.
+`Data/Temp/R_temp/`. 
 
 ### 6. Figures
 
