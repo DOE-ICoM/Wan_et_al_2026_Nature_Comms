@@ -1,6 +1,6 @@
-# Wan et al. (2026) — Coastal Flood Impact Analysis
+# Wan et al. (2026) — Coastal Flood Impact Sensitivity in the Eastern United States
 
-Code and sample data accompanying **Wan et al., 2026 (*Nature Communications*)**.
+Code and data accompanying **Wan et al., 2026 (*Nature Communications*)**.
 This repository provides the end-to-end workflow for estimating **building-level flood
 damage losses, inundated population, and census-tract aggregated impacts** from storm
 surge scenarios across coastal U.S. study blocks.
@@ -50,9 +50,17 @@ Wan_et_al_2026_Nature_Comms/
 └── .Rprofile                                 # Activates renv on R startup
 ```
 
-Study blocks are numbered `01`–`15` (block `06`, Key West FL, is intentionally skipped).
-Surge heights are encoded in decimeters (`05`, `10`, …, `50` → 0.5 m to 5.0 m).
-Attenuation scenarios are named `Att00` and `Att50`.
+Study blocks are numbered `01`–`15` (block `06`, Florida keys, is intentionally 
+skipped — see note below). Surge heights are encoded in decimeters (`05`, `10`, 
+…, `50` → 0.5 m to 5.0 m). Attenuation scenarios are named `Att50`.
+
+> **Note on Block 06 (Florida keys).** Block 06 covers only a very small land
+> area focused on Key West, FL, where the Microsoft Building Footprints (MSBF)
+> building-height coverage is extremely sparse. Even after applying our
+> height-interpolation procedure, a large fraction of buildings in this block
+> remained without a usable height value, which prevented reliable downstream
+> damage and exposure calculations. Block 06 is therefore excluded from all
+> processing loops and from the archived input dataset on MSD-LIVE.
 
 ---
 
@@ -61,10 +69,10 @@ Attenuation scenarios are named `Att00` and `Att50`.
 Large raster input datasets (building heights, building IDs, census-tract
 rasters, 10 m population rasters, and per-block storm-surge rasters) are **not
 stored directly in this GitHub repository** due to file-size limits. They are
-archived on **Zenodo**:
+archived on **MSD-LIVE**:
 
-> Wan, H. et al. *Input data for Wan et al. (2026), Nature Communications.*
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX  *(DOI will be added upon publication)*
+> Wan, H. et al. (2026) *Wan_et_al_2026_Nature_Comms (Version v1) [Data set].* 
+> MSD-LIVE Data Repository. https://doi.org/10.57931/17427421
 
 After downloading the Zenodo archive, extract it into the repository root so
 that the folder layout matches the structure shown above, i.e.:
@@ -251,7 +259,12 @@ tables in `Data/Output_data/`.
 
 ## Notes and assumptions
 
-- **Block 06 (Key West, FL)** is deliberately excluded from all processing loops.
+- **Block 06 (Florida keys)** is deliberately excluded from all processing
+  loops. This block covers only a very small land area focused on Florida keys,
+  where Microsoft Building Footprints (MSBF) height coverage is extremely
+  sparse; even after our height-interpolation step, most buildings
+  remained without usable heights to support reliable downstream damage and
+  population-exposure estimation.
 - **Volume adjustment**: mid- and high-rise unit values are scaled by the ratio
   of their mean per-building volume to the low-rise mean per-building volume
   within the same tract, so damage dollars reflect building-type differences
@@ -272,10 +285,11 @@ tables in `Data/Output_data/`.
 If you use this code or data, please cite both the paper and the archived
 dataset / code release:
 
-> Wan, H. et al. *Title*. **Nature Communications** (2026).
+> Wan, H. et al. (2026) *Coastal Flood Impact Sensitivity in the Eastern United States*. 
+> **Nature Communications**.
 >
-> Wan, H. et al. *Input data for Wan et al. (2026), Nature Communications.*
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Wan, H. et al. (2026) *Wan_et_al_2026_Nature_Comms (Version v1) [Data set].* 
+> MSD-LIVE Data Repository. https://doi.org/10.57931/17427421
 
 Full citations (DOI, BibTeX) will be added upon publication.
 
