@@ -8,11 +8,13 @@ library(data.table)
 library(purrr)
 library(tidyr)
 library(stringr)
+library(here)
 
 # --- Configuration ---
-# Your new input files should be in this directory
-input_dir <- "E:/Alfred/Flood_damage/Results/Census_tract_aggregation_att50"
-output_file <- "E:/Alfred/Flood_damage/Results/Damage_and_Pop_by_CT_WIDE_FORMAT_by_type.csv"
+# All paths are resolved relative to the project root via `here::here()`,
+# so this script works on any machine without editing hard-coded paths.
+input_dir   <- here("Data", "Output_data", "Census_tract_aggregation")
+output_file <- here("Data", "Output_data", "Damage_and_Pop_by_CT_WIDE_FORMAT_by_type.csv")
 
 #-------------------------------------------------------------------------------
 # 2. READ AND COMBINE: Load all CSVs into one "long" data frame

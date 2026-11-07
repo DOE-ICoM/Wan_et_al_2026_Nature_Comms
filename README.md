@@ -227,10 +227,6 @@ notebook.
 
 Output: `Data/Output_data/Damage_and_Pop_by_CT_WIDE_FORMAT_by_type.csv`
 
-> ⚠️ `Merge_all_surge_height_results.R` currently contains hard-coded Windows
-> paths (`E:/Alfred/Flood_damage/...`). Update `input_dir` and `output_file`
-> at the top of the script to point to your local `Data/Output_data/` tree
-> before running.
 
 ### 5. Per-MSA inundated area (R, parallelized)
 
