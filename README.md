@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Wan et al. (2026) — Coastal Flood Impact Sensitivity in the Eastern United States
-=======
 # Wan et al. (2026) — Coastal Flood Impact Sensitivity in the Eastern United States 
->>>>>>> 56db7f5d3a2067776be5d50ecb1a37fba5f82d29
 
 Code and data accompanying **Wan et al., 2026 (*Nature Communications*)**.
 This repository provides the end-to-end workflow for estimating **building-level flood
