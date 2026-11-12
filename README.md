@@ -21,15 +21,7 @@ multi-scenario wide-format dataset used for the figures in the paper.
 ```
 Wan_et_al_2026_Nature_Comms/
 ├── Data/
-│   ├── Input_data/
-│   │   ├── Building_IDs/            # BlockXX-Building_IDs.tif (per-building integer IDs)
-│   │   ├── MSBF/                    # BlockXX-Buildings.tif    (building heights, m)
-│   │   ├── Census_tract/            # CTXX.tif  + CTXX.csv     (tract raster + attrs)
-│   │   ├── Pop/                     # BlockXX-Building-Pop-YYYY_10m.tif  (2020/2050/2100)
-│   │   ├── Surge/Block-XX/          # Surge-XX_HH-AttAA.tif    (surge depth rasters)
-│   │   └── CBSA/
-│   │       ├── cbsa_to_county_fips.json
-│   │       └── tl_2025_us_cbsa/     # East-coast MSA boundary shapefile
+│   ├── Input_data/                  # (download from MSD-LIVE; see Data availability)
 │   └── Output_data/
 │       ├── Building_level_impact_results/     # building_damage_<block>_<surge>_Att<att>.csv
 │       ├── Census_tract_aggregation/          # Property_Value_and_Pop_CT_<surge>_dm_by_type.csv
