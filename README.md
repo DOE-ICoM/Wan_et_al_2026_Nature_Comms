@@ -22,6 +22,7 @@ multi-scenario wide-format dataset used for the figures in the paper.
 Wan_et_al_2026_Nature_Comms/
 ├── Data/
 │   ├── Input_data/                  # (download from MSD-LIVE; see Data availability)
+│   │   └── README.md                # Expected folder layout within Input_data/
 │   └── Output_data/
 │       ├── Building_level_impact_results/     # building_damage_<block>_<surge>_Att<att>.csv
 │       ├── Census_tract_aggregation/          # Property_Value_and_Pop_CT_<surge>_dm_by_type.csv
@@ -67,8 +68,10 @@ are archived on the **MSD-LIVE Data Repository**:
 
 After downloading the archive, extract it into the repository root so that
 the folder layout matches the structure shown above, i.e. all files are
-placed under `Data/Input_data/`. The archive contains the following
-components:
+placed under `Data/Input_data/`. See
+[`Data/Input_data/README.md`](Data/Input_data/README.md) for a concise
+summary of the expected folder layout within `Data/Input_data/`. The
+archive contains the following components:
 
 | Sub-folder | Contents | Format | Notes |
 |---|---|---|---|
